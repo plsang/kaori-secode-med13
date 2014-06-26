@@ -1,0 +1,1 @@
+qsub -e /net/per900a/raid0/plsang/tools/kaori-secode-med13/log/log1.txt -o /net/per900a/raid0/plsang/tools/kaori-secode-med13/log/log2.txt /net/per900a/raid0/plsang/tools/kaori-secode-med13/densetraj_encode_sge.sh segment-90 devel 117411 117428

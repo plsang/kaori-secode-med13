@@ -1,0 +1,54 @@
+8
+
+dir
+1113
+file:///net/per900a/raid0/plsang/server/svnrepos/kaori-secode-med13/densetraj_encode_sge/segment-10
+file:///net/per900a/raid0/plsang/server/svnrepos
+
+
+
+2013-12-17T06:57:42.252565Z
+1113
+plsang
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+87f6fdfc-ac8e-4ba6-8b8b-1e63dce18fc7
+
+densetraj_encode_sge.kinddevel.qsub.sh
+file
+
+
+
+
+2013-12-17T06:58:24.000000Z
+4044c2e677a4229af325dd4cbeb0f09d
+2013-12-17T06:57:42.252565Z
+1113
+plsang
+has-props
+
+densetraj_encode_sge.test.qsub.sh
+file
+
+
+
+
+2013-12-17T06:58:24.000000Z
+25713b99f8dc7a9cb8b8bcedd7b4cd11
+2013-12-17T06:57:42.252565Z
+1113
+plsang
+has-props
+

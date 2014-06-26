@@ -1,0 +1,1 @@
+./copy.sh /net/per610a/export/das11f/plsang/trecvidmed13/metadata/common/trecvidmed13.kindredtest.lst kindredtest segment-90 covdet.hessian.sift.cb256.devel.fisher.pca
